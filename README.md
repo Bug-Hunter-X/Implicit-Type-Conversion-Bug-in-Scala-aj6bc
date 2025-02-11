@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Scala related to implicit type conversions. The bug is subtle and can be difficult to detect without careful examination of the code. The solution involves explicitly handling type conversions to avoid unexpected behavior.
